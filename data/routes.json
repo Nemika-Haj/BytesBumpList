@@ -1,1 +1,10 @@
-{}
+{
+    "view_server": {
+        "rule": "/server/<serverID>",
+        "strict_slashes": false
+    },
+    "view_server_default": {
+        "rule": "/server/",
+        "strict_slashes": false
+    }
+}
