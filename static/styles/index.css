@@ -1,0 +1,6 @@
+.servers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    opacity: 0%;
+}

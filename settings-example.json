@@ -1,0 +1,4 @@
+{
+    "site_name": "BytesBump Server List",
+    "mongo": "mongo-uri (same as the bot's)"
+}
